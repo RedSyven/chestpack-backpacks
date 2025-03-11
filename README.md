@@ -20,7 +20,7 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 ![place](https://github.com/user-attachments/assets/0aa24576-85d7-47c3-bf8a-8852efb33fe7)
 <br />
 <br />
-• The Chestpack can pick up the following: chests, trapped chests, and barrels.
+• The Chestpack can pick up the following containers: chests, trapped chests, and barrels.
 <br />
 
 ![3containers](https://github.com/user-attachments/assets/eca3ef06-b452-49df-835d-5b75fe45b096)
