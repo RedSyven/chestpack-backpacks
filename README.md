@@ -9,12 +9,8 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 • *Left-Click* a chest with an empty Chestpack to pick it up.
 
 • *Right-Click* the ground with it to place the chest back down.
-
-
-###
-
-###
-
+<br />
+<br />
 ### Burden Mechanic
 
 Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
