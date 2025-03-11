@@ -22,7 +22,7 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 ### Burden Mechanic
 <br />
 
-![burden](https://github.com/user-attachments/assets/593a38c4-f565-4e6c-83c0-0ade0b0f698e)
+![burden](https://github.com/user-attachments/assets/65f8c69b-8892-4ab1-898d-636ff432e4e0)
 <br />
 Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
 <br />
