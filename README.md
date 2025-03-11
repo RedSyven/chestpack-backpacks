@@ -10,4 +10,4 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 
 • *Right-Click* the ground with it to place the chest back down.
 
-Burden Mechanic
+# Burden Mechanic
