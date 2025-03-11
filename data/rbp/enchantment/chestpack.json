@@ -1,0 +1,28 @@
+{
+  "description": "leftclick detection for container pickup",
+  "supported_items": "minecraft:music_disc_11",
+  "slots": [
+    "mainhand"
+  ],
+  "max_level": 1,
+  "effects": {
+    "minecraft:hit_block": [
+      {
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "rbp:pickup/check"
+        }
+      }
+    ]
+  },
+  "weight": 100,
+  "anvil_cost": 0,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 0
+  },
+  "max_cost": {
+    "base": 10,
+    "per_level_above_first": 0
+  }
+}
