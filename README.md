@@ -3,6 +3,7 @@
 This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpacks, or Chestpacks, lets players pick up and carry chests!
 <br />
 <br />
+
 ## **OVERVIEW**
 <br />
 
@@ -14,6 +15,7 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 • *Right-Click* the ground with it to place the chest back down.
 <br />
 <br />
+
 ### Burden Mechanic
 <br />
 Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
