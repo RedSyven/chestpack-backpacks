@@ -12,7 +12,7 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 <br />
 ----
 <br />
-• _Left-Click_ a chest with an empty Chestpack to pick it up. _Right-Click_ the ground to place the chest back down.
+• Left-Click a chest with an empty Chestpack to pick it up. Right-Click the ground to place the chest back down.
 <br />
 
 ![pickup](https://github.com/user-attachments/assets/cf003daa-3d1c-4cfa-ae5c-9972b99ddccf)   ![place](https://github.com/user-attachments/assets/0aa24576-85d7-47c3-bf8a-8852efb33fe7)
