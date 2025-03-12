@@ -11,6 +11,7 @@ These backpacks, also known as Chestpacks, lets players pick up and carry chests
 
 ![demosmallgif](https://github.com/user-attachments/assets/7bd45744-9f83-4637-ba1b-466ed2e95243)
 <br />
+<br />
 Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 <br />
 <br />
