@@ -1,9 +1,0 @@
-{
-    "condition": "minecraft:location_check",
-    "predicate": {
-      "block": {
-        "blocks": "#rbp:valid_container"
-      }
-    }
-  }
-  
