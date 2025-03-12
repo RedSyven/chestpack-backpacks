@@ -41,9 +41,7 @@ Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 
 ![chestslot](https://github.com/user-attachments/assets/a19782cd-d705-4c87-aa2b-a65bded09f1b)
 <br />
-<br />
 
----
 ### Burden Mechanic
 Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
 <br />
