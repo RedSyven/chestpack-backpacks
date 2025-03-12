@@ -7,6 +7,7 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft.
 <br />
 These backpacks, also known as Chestpacks, lets players pick up and carry chests!
 <br />
+<br />
 Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 <br />
 <br />
