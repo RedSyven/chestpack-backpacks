@@ -8,6 +8,9 @@ This project adds simple, vanilla friendly backpacks to Minecraft.
 These backpacks, also known as Chestpacks, lets players pick up and carry chests!
 <br />
 <br />
+
+![demosmallgif](https://github.com/user-attachments/assets/7bd45744-9f83-4637-ba1b-466ed2e95243)
+<br />
 Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 <br />
 <br />
