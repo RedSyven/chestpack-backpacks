@@ -72,4 +72,4 @@ However, due to limitations of datapacks, there are a couple constraints:
 • Creative Mode Pickup ⛔: Chest pickup does not work in Creative Mode. Players have to be in Survival.
 <br />
 <br />
-• Model Alignment ⛔: Unlike mods, datapacks can’t fully customize entity models. While in the offhand, the Chestpack's model is anchored to the arm. This means it won't align to the back of the player during fast movement.
+• Model Alignment ⛔: Datapacks can’t fully customize entity models. Chestpack models are anchored to the arm; This means it won't align to the player's back during fast movement.
