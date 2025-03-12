@@ -41,10 +41,10 @@ Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 
 ![chestslot](https://github.com/user-attachments/assets/a19782cd-d705-4c87-aa2b-a65bded09f1b)
 <br />
+<br />
 
 ### Burden Mechanic
-Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
-<br />
+• Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
 <br />
 
 ![burden](https://github.com/user-attachments/assets/65f8c69b-8892-4ab1-898d-636ff432e4e0)
@@ -67,7 +67,10 @@ This project uses a datapack to ensure:
 However, due to limitations of datapacks, there are a couple constraints:
 <br />
 <br />
+<br />
 • Creative Mode Pickup ⛔: Chest pickup does not work in Creative Mode. Players have to be in Survival.
 <br />
 <br />
 • Model Alignment ⛔: Datapacks can’t fully customize entity models. Chestpack models are anchored to the arm; This means it won't align to the player's back during fast movement.
+<br />
+<br />
