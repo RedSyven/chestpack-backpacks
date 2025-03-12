@@ -27,7 +27,15 @@ This datapack adds simple, vanilla friendly backpacks to Minecraft. These backpa
 ![3containers](https://github.com/user-attachments/assets/eca3ef06-b452-49df-835d-5b75fe45b096)
 <br />
 <br />
---
+
+• Chest slot full? Don't worry -  the Chestpack's still got your _back_! Since it's an offhand equipment, there's no need to sacrifice protection.
+<br />
+
+![chestslot](https://github.com/user-attachments/assets/a19782cd-d705-4c87-aa2b-a65bded09f1b)
+<br />
+<br />
+
+---
 ### Burden Mechanic
 Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
 <br />
