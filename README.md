@@ -65,6 +65,7 @@ This project uses a datapack to ensure:
 • Lightweight ✅: Minimal performance impact compared to mods.
 <br />
 <br />
+<br />
 However, due to limitations of datapacks, there are a couple constraints:
 <br />
 <br />
