@@ -59,16 +59,16 @@ Loaded chestpacks will burden players with their weight! Equip loaded chestpacks
 This project uses a datapack to ensure:
 <br />
 <br />
-• ✅ No Mods Required: Works on vanilla servers! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
+• No Mods Required ✅: Works on vanilla servers! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
 <br />
 <br />
-• ✅ Lightweight: Minimal performance impact compared to mods.
+• Lightweight ✅: Minimal performance impact compared to mods.
 <br />
 <br />
 However, due to limitations of datapacks, there are a couple constraints:
 <br />
 <br />
-• ⛔ Creative Mode Pickup: Chest pickup does not work in Creative Mode. Players have to be in Survival.
+• Creative Mode Pickup ⛔: Chest pickup does not work in Creative Mode. Players have to be in Survival.
 <br />
 <br />
-• ⛔ Model Alignment: Unlike mods, datapacks can’t fully customize entity models. While in the offhand, the Chestpack's model is anchored to the arm. This means it won't align to the back of the player during fast movement.
+• Model Alignment ⛔: Unlike mods, datapacks can’t fully customize entity models. While in the offhand, the Chestpack's model is anchored to the arm. This means it won't align to the back of the player during fast movement.
