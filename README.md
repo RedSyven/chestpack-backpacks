@@ -71,6 +71,9 @@ This project uses a datapack to ensure:
 • No Mods Required ✅: Works on vanilla servers! Friends can join hassle-free. Once the datapack/mod is installed by the host, no client installations are needed.
 <br />
 <br />
+• Compatability ✅: Will work with practically any mod!
+<br />
+<br />
 • Lightweight ✅: Minimal performance impact compared to mods.
 <br />
 <br />
