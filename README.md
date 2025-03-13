@@ -48,10 +48,10 @@ Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 <br />
 
 ### Burden Mechanic
-• Loaded chestpacks will burden players with their weight! Equip loaded chestpacks in the offhand to remove this penalty.
+• Holding more than one loaded chestpack will burden players with their weight!
 <br />
 
-![burden](https://github.com/user-attachments/assets/65f8c69b-8892-4ab1-898d-636ff432e4e0)
+![burden2](https://github.com/user-attachments/assets/9ce6d02e-aed3-4a2b-bc66-59ea62cb7dd1)
 <br />
 <br />
 <br />
