@@ -47,6 +47,13 @@ Chestpacks offer an intuitive storage solution with early-midgame accessibility.
 <br />
 <br />
 
+• Built to last - Chestpacks are fireproof!
+<br />
+
+![fireproof](https://github.com/user-attachments/assets/6e035de1-28bc-401c-822e-9d2fd7a6e201)
+<br />
+<br />
+
 ### Burden Mechanic
 • Holding more than one loaded chestpack will burden players with their weight!
 <br />
